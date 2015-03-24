@@ -1,0 +1,13 @@
+{
+  "name": "animation-layer",
+  "version": "1.0",
+  "includes": [ "lib" ],
+  "sources": [ "lib/animation-layer.c" ],
+  "js": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smallstoneapps/animation-layer.git"
+  },
+  "author": "Matthew Tole <pebble@matthewtole.com>",
+  "license": "MIT"
+}

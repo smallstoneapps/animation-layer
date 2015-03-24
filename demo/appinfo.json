@@ -1,0 +1,19 @@
+{
+  "uuid": "58caf019-468b-4c4e-b828-c0e859d98eed",
+  "shortName": "demo",
+  "longName": "demo",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
